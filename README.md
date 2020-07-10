@@ -1,16 +1,13 @@
-### Hi there 👋
+# Josias Furtado
+[![Linkedin Badge](https://img.shields.io/badge/-josiasfurtado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-furtado-028500190/)](https://www.linkedin.com/in/josias-furtado-028500190/)
+[![Gmail Badge](https://img.shields.io/badge/-jo.junior94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jo.junior94@gmail.com)](mailto:jo.junior94@gmail.com)
 
-<!--
-**JosiasFurtado/JosiasFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Josias Furtado, I'm a front-end developer 💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working with Typescript and NextJS at @Atados
+- 🌱 I'm currently learning UI/UX, logic and english.
+- 💬 Ask me about: tech, innovation, universe and anime.
+- ⚡ Technologies: React, React Native, NextJS, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"A sage will always be an eternal apprentice."
