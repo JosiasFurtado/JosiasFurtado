@@ -5,7 +5,7 @@
 ## Hi 👋, 
 I'm Josias Furtado, a front-end developer 💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
-- 🔭 I'm currently working with Typescript and NextJS at @Atados
+- 🔭 I'm currently working with Typescript and NextJS at <a target="__blank" href="https://github.com/atados">@Atados</a>
 - 🌱 I'm currently learning UI/UX, logic and english.
 - 💬 Ask me about: tech, innovation, universe, paradoxes and anime.
 - ⚡ Technologies: React, React Native, NextJS, GraphQL
