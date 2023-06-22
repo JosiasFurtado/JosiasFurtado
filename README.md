@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jo.junior94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jo.junior94@gmail.com)](mailto:jo.junior94@gmail.com)
 
 ## Hi 👋, 
-I'm Josias Furtado, a front-end developer 💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Josias Furtado, co-founder at <a target="__blank" href="https://onlink.site">OnLink</a>, a front-end developer 💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 - 🔭 I'm currently working with Typescript and NextJS at <a target="__blank" href="https://github.com/atados">@Atados</a>
 - 🌱 I'm currently learning UI/UX, logic and english.
