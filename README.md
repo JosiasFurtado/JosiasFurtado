@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-jo.junior94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jo.junior94@gmail.com)](mailto:jo.junior94@gmail.com)
 
 ## Hi 👋, 
-I'm Josias Furtado, co-founder at <a target="__blank" href="https://onlink.site">OnLink</a>, a front-end developer 💻 passionate about JavaScript technologies and its entire ecosystem. 
+I'm Josias Furtado, co-founder of <a target="__blank" href="https://onlink.site">OnLink</a>, a front-end developer 💻 passionate about JavaScript and its ecosystem. 
 
-- 🔭 I'm currently working with Typescript and NextJS at <a target="__blank" href="https://github.com/atados">@Atados</a>
-- 🌱 I'm currently learning UI/UX, logic and english.
-- 💬 Ask me about: tech, innovation, universe, paradoxes and anime.
+- 🔭 I'm currently working with TypeScript and Next.js at <a target="__blank" href="https://github.com/atados">@Atados</a>
+- 🌱 I'm currently learning UI/UX, programming logic and English.
+- 💬 Ask me about: tech, innovation, the universe, paradoxes and anime.
 - ⚡ Technologies: React, React Native, NextJS, GraphQL
 
 "A sage will always be an eternal apprentice."
@@ -15,7 +15,7 @@ I'm Josias Furtado, co-founder at <a target="__blank" href="https://onlink.site"
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="26px" src="https://uploads-ssl.webflow.com/5ec79bd59ef05a6bd3b29386/5ef16dea048a428b21fe8b22_download_logo_figma_vector_logo_svg_eps_png_psd_ai_color_free_-_el_...png" />
+<img align="left" alt="Figma" width="26px" src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="NextJS" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" />
